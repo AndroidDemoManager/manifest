@@ -9,5 +9,6 @@
   <!-- project：path 本地相对路径，name 远程相对路径，完整路径为 remote.fetch + project.name -->
     <project path="." name="AndroidDemoProjects.git"/>
   <project path="jetpack/RoomTest" name="RoomTest.git"/>
+  <project path="jetpack/pagingtest" name="pagingtest.git"/>
 </manifest>
 
